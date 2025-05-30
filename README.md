@@ -1,5 +1,5 @@
 # Prompt优化Pipeline
-
+注意注意：最佳的prompt优化了十轮，我放在了share/data ... 我的那个文件夹里，感觉还可以优化，涨的挺快的
 这是一个用于医疗诊断prompt优化的pipeline项目。该项目通过不断调整prompt来提高大模型在医疗诊断任务上的准确性。
 
 ## 项目结构
